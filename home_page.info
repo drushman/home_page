@@ -1,0 +1,4 @@
+name = Home Page
+decription = Set home page foreach user anonymous and user logged
+core = 7.x
+package = Example
